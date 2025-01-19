@@ -1,1 +1,1 @@
-a  simple webportfolio
+a  simple and dynamic webportfolio
